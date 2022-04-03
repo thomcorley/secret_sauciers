@@ -1,1 +1,3 @@
-# secret_sauciers
+# Secret Sauciers
+
+The source code for secretsauciers.com

@@ -1,3 +1,3 @@
-# Secret Sauciers
+# sup
 
-The source code for secretsauciers.com
+The source code for [sup.co.uk](https://www.supclub.co.uk)
